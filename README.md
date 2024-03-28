@@ -8,7 +8,7 @@ This Python script captures video from a webcam, detects faces, and recognizes t
 
 ## Files
 
-- `script.ipynb`: Jupyter Notebook containing the main script for face detection, feature identification, data generation, training, and recognition.
+- `script.ipynb`: Jupyter Notebook containing the main script for face detection, feature identification, data generation, training, and recognition. Uncomment the relevant code blocks for feature detection, data generation, training, and recognition.
 - `classifier.ipynb`: Jupyter Notebook containing the code for training the face recognition model using the generated dataset.
 
 ## Workflow
@@ -34,8 +34,6 @@ This Python script captures video from a webcam, detects faces, and recognizes t
 1. Make sure you have installed the required dependencies.
 2. Open and run the Jupyter Notebook `script.ipynb` to execute the face recognition script.
 3. Use the Jupyter Notebook `classifier.ipynb` to train the face recognition model with your own dataset.
-
-
 
 [Tadakamalla srikar]
 
